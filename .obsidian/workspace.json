@@ -97,12 +97,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Untitled 5.md",
+                "file": "Welcome.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Untitled 5"
+              "title": "Welcome"
             }
           }
         ],
@@ -194,7 +194,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Untitled 5.md",
+                "file": "Welcome.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -204,7 +204,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Untitled 5"
+              "title": "Backlinks for Welcome"
             }
           },
           {
@@ -213,12 +213,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Untitled 5.md",
+                "file": "Welcome.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Untitled 5"
+              "title": "Outgoing links from Welcome"
             }
           },
           {
@@ -240,10 +240,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Untitled 5.md"
+                "file": "Welcome.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of Untitled 5"
+              "title": "Outline of Welcome"
             }
           }
         ]
@@ -263,14 +263,14 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "dc38643e6183a6f0",
+  "active": "7e2aa775cf932449",
   "lastOpenFiles": [
+    "Untitled 1.md",
+    "Untitled 5.md",
     "netlify.toml",
     "Untitled 4.md",
-    "Untitled 5.md",
     "Untitled 3.md",
     "Untitled 2.md",
-    "Untitled 1.md",
     "Untitled.md",
     "Welcome.md"
   ]
