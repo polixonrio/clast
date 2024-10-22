@@ -5,7 +5,7 @@ publish = "public"
 [build.environment]
 
 # (REQUIRED) The Markdown page linked to landing page button (e.g. put home for ./home.md)
-LANDING_PAGE = "./Welcome.md"
+LANDING_PAGE = "Welcome.md"
 PYTHON_VERSION = "3.8"
 # (REQUIRED) Site repo URL
 REPO_URL = "https://github.com/polixonrio/clast"
