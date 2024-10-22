@@ -10,7 +10,7 @@ PYTHON_VERSION = "3.8"
 # (REQUIRED) Site repo URL
 REPO_URL = "https://github.com/polixonrio/clast"
 # (REQUIRED) Netlify site URL
-SITE_URL = "clast.netlify.com"
+SITE_URL = "https://clast.netlify.app/"
 ZOLA_VERSION = "0.15.2"
 # (Optional, default title) How to sort notes inside each section on the right sidebar ("date" or "title"). Subsections on side bar are sorted by title, the sort order cannot be changed.
 GRAPH_OPTIONS = """
